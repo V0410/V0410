@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Maksym! 👋</h1>
 <h3 align="center">An Experienced Frontend | Backend | Blockchain Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="V0410" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=V0410&label=Profile%20views&color=0e75b6&style=flat" alt="V0410" /> </p>
 
 - 🌱 Senior Full stack developer.
 
