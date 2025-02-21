@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidenwong812&label=Profile%20views&color=0e75b6&style=flat" alt="aidenwong812" /> </p>
 
-- 🌱 Senior Full stack developer.
+- ❤ Senior Full stack developer.
 
-- 🌱 Major Experiences
+- ❤ Major Experiences
 
     • Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
   
